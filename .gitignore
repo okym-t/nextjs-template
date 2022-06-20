@@ -30,3 +30,12 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# cypress
+cypress/screenshots
+cypress/videos
+
+package-lock.json
+/test-results/
+/playwright-report/
+/playwright/.cache/
