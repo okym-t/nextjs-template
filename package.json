@@ -15,8 +15,8 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "@chakra-ui/icons": "2.0.2",
-    "@chakra-ui/react": "2.2.1",
+    "@chakra-ui/icons": "2.0.9",
+    "@chakra-ui/react": "2.3.2",
     "@emotion/react": "11.9.3",
     "@emotion/styled": "11.9.3",
     "framer-motion": "7.2.0",
